@@ -1,0 +1,3 @@
+module iker {
+	exports iker;
+}
